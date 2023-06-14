@@ -1,0 +1,13 @@
+{
+    "bias": true,
+    "rnn_type": "GRU",
+    "embd_dim": 3,
+    "num_layers": 1,
+    "hidden_size": 4,
+    "dropout_rate": 0.0,
+    "device": "cpu",
+    "bidirectional": false,
+    "in_vocab_size": 26,
+    "out_vocab_size": 26,
+    "reduction_method": "mean"
+}
